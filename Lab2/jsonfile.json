@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 101,
+      "name": "Laki Kishor Subba",
+      "phone": "123456",
+      "email": "laki@example.com"
+    },
+    {
+      "id": 102,
+      "name": "Penjor",
+      "phone": "2003",
+      "email": "penjor@example.com"
+    },
+    {
+      "id": "105",
+      "name": "lakiii",
+      "phone": "309898",
+      "email": "we@gmail.com"
+    },
+    {
+      "id": "2323",
+      "name": "we",
+      "phone": "23",
+      "email": "wew"
+    }
+  ]
+}
